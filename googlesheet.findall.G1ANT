@@ -1,0 +1,7 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+googlesheet.open 1gKFnrtZ-kzijNeIpYxln6PZS0z5btyHjoW1vZhCZ58c
+googlesheet.findall value ‴8.00‴ sheetname ‴Time sheet‴ result ♥timePlace
+dialog ♥timePlace
+googlesheet.close
